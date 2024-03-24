@@ -22,11 +22,12 @@ I am a software engineer working in the autonomous driving industry. I work in t
 - Machine learning for whole body estimation;
 - Controll of safety critical systems.
 
-Before entering autonomous vehicle industry, I obtained my Ph.D. degree from the Department of Mechanical and Aerospace Engineering in Rutgers University. My [dissertation](https://rucore.libraries.rutgers.edu/rutgers-lib/60076/) focus on applying machine learing approach to controlling underactuated robots such as autonomous bicycle and bipedal robots. 
+Before entering autonomous vehicle industry, I obtained my Ph.D. degree in 2019 from the Department of Mechanical and Aerospace Engineering in Rutgers University. My [dissertation](https://rucore.libraries.rutgers.edu/rutgers-lib/60076/) focused on applying machine learing approach to controlling underactuated robots such as autonomous bicycle and bipedal robots. 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Working Experience
+- *2020.10 - present*, Senior Software Engineer, Motional LLC
+- *2019.04 - 2020.10*, Software Engineer, Optimus Ride Inc
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -35,6 +36,10 @@ Before entering autonomous vehicle industry, I obtained my Ph.D. degree from the
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
