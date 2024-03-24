@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a software engineer working in the autonomous driving industry. I work in the planning and control team of Motional. My research interest includes: 
-- Robust locomotion of underactuated robots;
+- Robust locomotion of underactuated robots ;
 - Machine learning for whole body estimation;
 - Controll of safety critical systems.
-I obtained my Ph.D. degree from Department of Mechanical and Aerospace Engineering in Rutgers University. 
+
+Before entering autonomous vehicle industry, I obtained my Ph.D. degree from the Department of Mechanical and Aerospace Engineering in Rutgers University. My [dissertation](https://rucore.libraries.rutgers.edu/rutgers-lib/60076/) focus on applying machine learing approach to controlling underactuated robots such as autonomous bicycle and bipedal robots. 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
